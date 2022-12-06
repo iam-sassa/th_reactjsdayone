@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Josefin+Sans&family=Nanum+Pen+Script&family=Patrick+Hand&family=Secular+One&display=swap');
+
+.report {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: center;
+    
+}
+
+.input {
+    background-color: beige;
+    margin: 50px;
+    padding: 20px;
+    color: brown;
+    font-family: 'Josefin Sans', sans-serif;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.input label {
+    font-size: 25px;
+}
+
+.result {
+    background-color: brown;
+    padding: 20px;
+    color: beige;
+    border-radius: 5px;
+
+}
+
+  h1 {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    color: pink;
+    margin: 15px;
+}
+
+p {
+    text-align: left;
+}

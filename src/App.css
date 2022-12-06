@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+  padding: 10px;
+  justify-content: space-between;
+  
 }
 
 .App-logo {
@@ -26,6 +32,18 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.calculator, .counter{
+  background-color: pink;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.map, .hello {
+  background-color: antiquewhite;
+  border-radius: 10px;
+  padding: 10px;
 }
 
 @keyframes App-logo-spin {

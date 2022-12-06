@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Josefin+Sans&family=Nanum+Pen+Script&family=Patrick+Hand&family=Secular+One&display=swap');
+
+button {
+    background-color: black ;
+    font-family: 'Nanum Pen Script', cursive;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    color: beige;
+    margin: 15px;
+}
+
+button:hover{
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+}
+
+input {
+    padding: 5px;
+    border-radius: 2px;
+    font-family: 'Patrick Hand', cursive;
+}
